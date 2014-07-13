@@ -29,7 +29,7 @@ body,
 
 .wy-side-nav-search img {
     width: 158px;
-    height: 106px;
+    height: 158px;
     border-radius: 0;
     margin: 1em;
     padding: 0;
